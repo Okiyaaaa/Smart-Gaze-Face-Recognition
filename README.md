@@ -23,7 +23,7 @@ OpenCV
 
 TensorFlow / Keras or PyTorch
 
-Dlib or FaceNet
+VGGFace or FaceNet
 
 Google Drive / Google Sheet
 
